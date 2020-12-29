@@ -1,0 +1,405 @@
+.navbar-default
+{
+	background-color: transparent;
+}
+.navbar-default.scrolled
+{
+	background-color: #212529;
+	background: rgba(33,37,41,.9);
+	color: #212529 !important;
+}
+.logoname h3
+{
+	font-family: LJMC;
+}
+.quote h1
+{
+	font-size: 60px;
+	font-family: Indieflower;
+}
+.cicon img
+{
+	margin: 0 75px;
+}
+.cicon h5
+{
+	margin: 0 85px;
+}
+.transbg
+{
+	background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(img/tb2.jpg);
+	background-size: cover;
+	background-position: center;
+	background-position: center;
+	background-attachment: fixed;
+	padding: 50px;
+}
+.navbar-default
+{
+  position:fixed;
+  width:100%;
+  background-color:;
+  z-index:10;
+  border-radius:0;
+  border-color:transparent;
+}
+.carousel-item img
+{
+  
+  width: auto;
+  height : auto;
+  position: center center;
+ 
+}
+.container .servicesicon img
+{
+	margin : 10px 170px;
+}
+.container .servicesicon p
+{
+	margin : 0 195px;
+}
+#blognav
+{
+	width: 100%;
+	height: 50vh;
+	background: linear-gradient(to bottom,rgba(0, 0, 0, .4) 0,rgba(0, 0, 0, .4) 100%), url(img/Banner/blogbanner.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+.navtitle
+{
+	padding-top: 120px;
+
+}
+.page-item.active .page-link {
+    z-index: 1;
+    color: #fff;
+    background-color: #212529;
+    border-color: #212529;
+}
+.page-link {
+    position: relative;
+    display: block;
+    padding: .5rem .75rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #212529;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+}
+
+.carousel-item img
+{
+	width: 100%;
+	
+}
+.carousel-caption h5
+{
+	font-size: 60px;
+	font-family: Indieflower;
+	padding-bottom: 250px;
+}
+
+/*about_us*/
+#about_banner
+{
+	width: 100%;
+	height: 50vh;
+	background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(img/camera.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+/*about_us*/
+.navtitle{
+	padding-top: 130px;
+}
+
+
+.container h2{
+	font-family: Bowlby;
+}
+
+/*contact*/
+#contact_banner
+{
+	
+	width: 100%;
+	height: 50vh;
+	background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(img/Banner/contactbanner.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+/*contact*/
+.map
+{
+	overflow: hidden;
+	position: relative;
+	padding-bottom: 50px;
+}
+
+/*price*/
+#pricebanner
+{
+	width: 100%;
+	height: 50vh;
+	background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(img/Banner/pricebanner.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+
+/*price*/
+#pricebanner h1
+{
+	padding-top: 80px;
+
+}
+
+/*Galleryhome!*/
+
+
+#banner_gallery{
+	width :100%;
+	height: 100vh;
+	background: linear-gradient(to bottom,rgba(0,0,0,0.5),rgba(0,0,0,0.5)100%),url(img/Banner/gallerybanner.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size:cover; 
+}
+
+.navtitlegallery{
+	padding-top: 300px;
+}
+
+.gallery_img img{
+	width: 400px;
+	height: 250px;
+	object-fit: cover;
+}
+
+
+ hr.divider{
+	max-width: 66rem;
+	border-width:.2rem;
+	/*border-color:green;*/
+}
+
+/*ENd Galleryhome!
+
+/*nature banner*/
+#nature-banner1{
+	width :100%;
+	height: 50vh;
+	background: linear-gradient(to bottom,rgba(0,0,0,0.5),rgba(0,0,0,0.5)100%),url(img/Banner/naturegallerybanner.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size:cover; 
+	background-color :transparent;
+}
+
+/*Wild life banner*/
+#wild-life-banner1{
+	width :100%;
+	height: 50vh;
+	background: linear-gradient(to bottom,rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(img/Banner/wildlifebanner.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size:cover; 
+	background-color :transparent;
+}
+
+/*Gallery Items's Css By NWE Start*/
+
+/*wedding start*/
+#wedding-gallery1-banner1,#wedding-gallery2-banner2,#wedding-gallery3-banner3{
+	width: 100%;
+	height: 50vh;
+	background:linear-gradient(to bottom,rgba(0,0,0,.4)0,rgba(0,0,0,.4)100%
+		),url(img/Banner/weddingbanner.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center center ;
+
+}
+
+#wedding-image-link1-JackMiley-banner
+{
+	width: 100%;
+	height: 50vh;
+	background:linear-gradient(to bottom,rgba(0,0,0,.4)0,rgba(0,0,0,.4)100%
+		),url(img/Banner/jacknmileybanner.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center center ;
+}
+#wedding-image-link1-TommyCatherine-banner
+{
+	width: 100%;
+	height: 50vh;
+	background:linear-gradient(to bottom,rgba(0,0,0,.4)0,rgba(0,0,0,.4)100%
+		),url(img/Banner/tommycatherine.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center center ;
+}
+#wedding-image-link1-BH-banner
+{
+	width: 100%;
+	height: 50vh;
+	background:linear-gradient(to bottom,rgba(0,0,0,.4)0,rgba(0,0,0,.4)100%
+		),url(img/Banner/bh.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center center ;
+}
+#wedding-image-link1-CY-banner
+{
+	width: 100%;
+	height: 50vh;
+	background:linear-gradient(to bottom,rgba(0,0,0,.4)0,rgba(0,0,0,.4)100%
+		),url(img/Banner/cy.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center center ;
+}
+#wedding-image-link1-NJ-banner
+{
+	width: 100%;
+	height: 50vh;
+	background:linear-gradient(to bottom,rgba(0,0,0,.4)0,rgba(0,0,0,.4)100%
+		),url(img/Banner/nj.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center center ;
+}
+#wedding-image-link1-WA-banner
+{
+	width: 100%;
+	height: 50vh;
+	background:linear-gradient(to bottom,rgba(0,0,0,.4)0,rgba(0,0,0,.4)100%
+		),url(img/Banner/wa.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center center ;
+}
+#wedding-image-link1-JamesLily-banner
+{
+	width: 100%;
+	height: 50vh;
+	background:linear-gradient(to bottom,rgba(0,0,0,.4)0,rgba(0,0,0,.4)100%
+		),url(img/Banner/jameslily.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center center ;
+}
+#wedding-image-link2-AlonzoPatrica-banner
+{
+	width: 100%;
+	height: 50vh;
+	background:linear-gradient(to bottom,rgba(0,0,0,.4)0,rgba(0,0,0,.4)100%
+		),url(img/Banner/alonzopatrica.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center center ;
+}
+#wedding-image-link2-Austin-banner
+{
+
+	width: 100%;
+	height: 50vh;
+	background:linear-gradient(to bottom,rgba(0,0,0,.4)0,rgba(0,0,0,.4)100%
+		),url(img/Banner/austin.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center center ;
+
+}
+#wedding-image-link2-Johnjinny-banner
+{
+	width: 100%;
+	height: 50vh;
+	background:linear-gradient(to bottom,rgba(0,0,0,.4)0,rgba(0,0,0,.4)100%
+		),url(img/Banner/johnjinny.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center center ;
+}
+
+#wedding-image-link3-BobbyChewy-banner
+{
+	width: 100%;
+	height: 50vh;
+	background:linear-gradient(to bottom,rgba(0,0,0,.4)0,rgba(0,0,0,.4)100%
+		),url(img/Banner/austin.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center center ;
+}
+#wedding-image-link3-BooneRachel-banner
+{
+	width: 100%;
+	height: 50vh;
+	background:linear-gradient(to bottom,rgba(0,0,0,.4)0,rgba(0,0,0,.4)100%
+		),url(img/Banner/boonerachel.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center center ;
+}
+#wedding-image-link3-MichealLisa-banner
+ {
+	width: 100%;
+	height: 50vh;
+	background:linear-gradient(to bottom,rgba(0,0,0,.4)0,rgba(0,0,0,.4)100%
+		),url(img/Banner/micheallisa.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center center ;
+
+}
+
+/*wedding stop*/
+
+/*family*/
+#Family-page1-banner1,#Family-page2-banner2,#Family-page3-banner3{
+	width: 100%;
+	height: 50vh;
+	background:linear-gradient(to bottom,rgba(0,0,0,.4)0,rgba(0,0,0,.4)100%
+		),url(img/Banner/familybanner.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center center ;
+
+}
+
+/*convo start*/
+#convo1-banner,#convo2-banner,#convo3-banner{
+		width: 100%;
+	height: 50vh;
+	background:linear-gradient(to bottom,rgba(0,0,0,.4)0,rgba(0,0,0,.4)100%
+		),url(img/Banner/convobanner.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center center ;
+
+}
+/*convo end*/
+
+/*travel start*/
+#travel1-banner,#travel2-banner,#travel3-banner{
+		width: 100%;
+	height: 50vh;
+	background:linear-gradient(to bottom,rgba(0,0,0,0.4)0,rgba(0,0,0,.4)100%
+		),url(img/Banner/travelbanner.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center center ;
+}
+/*travel end*/
+
+/*Gallery Intems's Css By NWE End*/
